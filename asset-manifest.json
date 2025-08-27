@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.e2531276.css",
+    "main.js": "/dashboard/static/js/main.108e59cc.js",
+    "static/js/453.9ab87d04.chunk.js": "/dashboard/static/js/453.9ab87d04.chunk.js",
+    "static/media/remixicon.svg?t=1734404658139": "/dashboard/static/media/remixicon.df9902a6df13645438e1.svg",
+    "static/media/remixicon.eot?t=1734404658139": "/dashboard/static/media/remixicon.29066d810a74e994be27.eot",
+    "static/media/remixicon.ttf?t=1734404658139": "/dashboard/static/media/remixicon.868d1a768f4762dbcc3e.ttf",
+    "static/media/remixicon.woff?t=1734404658139": "/dashboard/static/media/remixicon.ce82bb240fef24f93f95.woff",
+    "static/media/bootstrap-icons.woff?": "/dashboard/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/remixicon.woff2?t=1734404658139": "/dashboard/static/media/remixicon.bb211d855a1864aa5b67.woff2",
+    "static/media/bootstrap-icons.woff2?": "/dashboard/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/user.jpg": "/dashboard/static/media/user.f7a2d3501fb22e0e28c9.jpg",
+    "index.html": "/dashboard/index.html",
+    "main.e2531276.css.map": "/dashboard/static/css/main.e2531276.css.map",
+    "main.108e59cc.js.map": "/dashboard/static/js/main.108e59cc.js.map",
+    "453.9ab87d04.chunk.js.map": "/dashboard/static/js/453.9ab87d04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2531276.css",
+    "static/js/main.108e59cc.js"
+  ]
+}
